@@ -1,8 +1,8 @@
 # Internet-News-Sentiment-Analysis  
-本项目选题来自中国计算机学会组织的国际化智能算法、创新应用和大数据系统大型挑战赛事（https://www.datafountain.cn/competitions/350）。  
-该任务根据互联网短文本及其情感极性标签(0,1,2)，搭建文本情感分析模型，实现对新输入文本的情感极性判断。  
-数据集由中国计算机学会组织的国际化智能算法、创新应用和大数据系统大型挑战赛事提供，采用互联网线上数据，从新闻网、微信、博客、贴吧等网站爬取了7000多条互联网短文本的标题与正文，并给出对应文本的情感极性标签，情感分为正中负三类，分别对应标签（0，1，2）。每条新闻有唯一的ID作为表示。数据集以csv文件格式保存  
-本次项目执行流程：收集数据->输入数据->数据预处理->训练和测试模型->模型评估  
-项目成员：周毛桉，董昱希，崇洋，童洁  
-指导老师：魏小梅  
-单位：华中农业大学  
+The project selected topic from the internationalization of China computer society organization intelligent algorithm, innovative applications and big data system large challenge tournament (https://www.datafountain.cn/competitions/350).
+This task builds a text emotion analysis model based on short Internet texts and their emotion polarity labels (0,1,2) to realize the emotion polarity judgment of new input texts.
+The data set was provided by the International Intelligent Algorithm, Innovative Application and Big Data System large-scale Challenge Competition organized by China Computer Society. Using Internet online data, the titles and text of more than 7,000 short Internet texts were extracted from websites such as news network, wechat, blog and Tieba, and the emotion polarity labels of corresponding texts were given. The emotion was divided into three categories: neutral and negative. They correspond to labels (0,1,2). Each news item is represented by a unique ID. Data sets are saved in csv file format
+The project execution process: data collection -> Input data -> Data preprocessing -> Training and testing model -> Model evaluation
+Project members: Zhou Maoxi, Dong Yuxi, Chong Yang, Tong Jie
+Instructor: Wei Xiaomei
+Setting: Huazhong Agricultural University
